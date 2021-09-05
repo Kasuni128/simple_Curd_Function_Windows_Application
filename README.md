@@ -1,5 +1,5 @@
 # simple_Curd_Function_Windows_Application_C#
-For Book store 
+This Application For Book store using Array List
 ✓ use public void Clear (): method to clear all temporary values of labels, textboxes, comboboxes 
 and lists.
 ✓ Generate next available id.
