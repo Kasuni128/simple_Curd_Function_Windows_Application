@@ -1,4 +1,4 @@
-# simple_Curd_Function_Windows_Application
+# simple_Curd_Function_Windows_Application_C#
 For Book store 
 ✓ use public void Clear (): method to clear all temporary values of labels, textboxes, comboboxes 
 and lists.
